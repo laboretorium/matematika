@@ -1,2 +1,7 @@
-# matematika
-Halaman Dokumentasi Materi Matematika
+---
+description: Halaman Dokumentasi Materi Matematika
+---
+
+# Matematika
+
+Dalam tahap pengembangan.
